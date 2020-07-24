@@ -1,0 +1,58 @@
+body{
+    background-color: #C5BAB5;
+}
+
+nav{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #FBF9F8;
+    text-align: start;
+}
+
+.nav{
+    background-color: #5D5551;
+}
+
+.nav a{
+    display: block;
+    color: #FBF9F8;
+}
+
+.nav a:hover{
+    background-color: #FBF9F8;
+    color: #25201D;
+}
+
+h1{
+    font-size: 100px;
+    color: #25201D;
+    font-family: 'Rancho', cursive;
+    text-align: center
+    ;
+}
+
+img{
+    align-content: center;
+}
+
+p{
+    color: #25201D;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;;
+    text-align: center;
+
+}
+
+p{
+  background-color: #FBF9F8;
+  width: 1000px;
+  border: 3px solid #5D5551;
+  padding: 50px;
+  margin: 20px;
+  align-self: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

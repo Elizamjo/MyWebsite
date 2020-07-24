@@ -1,0 +1,61 @@
+body{
+    background-color: #928781;
+}
+
+nav{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #FBF9F8;
+    text-align: start;
+}
+
+.nav{
+    background-color: #5D5551;
+}
+
+.nav a{
+    display: block;
+    color: #FBF9F8;
+}
+
+.nav a:hover{
+    background-color: #FBF9F8;
+    color: #25201D;
+}
+
+
+h1{
+    font-size: 100px;
+    color: #25201D;
+    font-family: 'Rancho', cursive;
+}
+
+h2{
+    font-size: 50px;
+    color: #25201D;
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+}
+
+p{
+    color: #FBF9F8;
+    font-size: 25px;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+}
+
+.box{
+    border-width: 5px;
+    border: solid slateblue;
+    width: 50px;
+    margin: 50px;
+    padding: 50px;
+    align-self: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* colors ligh to dark: #FBF9F8 ; #C5BAB5 ; #928781 ; #5D5551 ; #25201D */
